@@ -1,3 +1,4 @@
 [submodule "transaction-decoder"]
 	path = transaction-decoder
 	url = git@github.com:blockscout/transaction-decoder.git
+	branch = main
