@@ -2,3 +2,6 @@
 	path = transaction-decoder
 	url = git@github.com:blockscout/transaction-decoder.git
 	branch = main
+[submodule "repoA"]
+	path = repoA
+	url = git@github.com:rimrakhimov/repoA.git
